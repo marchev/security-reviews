@@ -1,4 +1,4 @@
-# [I-1] Missing calldata forwarding in **Vault#deposit()** **compromises custom validator effectiveness
+# [I-1] Missing calldata forwarding in `Vault#deposit()` compromises custom validator effectiveness
 
 ## Brief/Intro
 
