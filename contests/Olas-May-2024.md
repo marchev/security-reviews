@@ -1,4 +1,4 @@
-# [M-2] Less active nominees can be left without rewards after an year of inactvitiy
+# [M-1] Less active nominees can be left without rewards after an year of inactvitiy
 
 ## Impact
 
